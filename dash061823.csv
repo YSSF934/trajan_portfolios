@@ -1,0 +1,55 @@
+﻿Portfolios,nickname,1 Week,1 Month,3 Month,YTD,1 Yr,3 Yr,5 Yr,10 Yr
+Trajan™ Core Aggressive Growth Model,CAGM,2.48,6.28,10.94,13.39,20.08,12.64,9.14,10.97
+Trajan™ Core Aggressive Benchmark,CAB,2.61,6.59,11.37,14.97,20.96,12.73,10.03,11.04
+Trajan™ Core Growth Model,CGM,1.95,4.70,8.50,10.97,16.26,9.66,7.68,9.48
+Trajan™ Core Growth Benchmark,CGB,2.12,5.18,9.10,12.48,16.93,9.53,8.57,9.36
+Trajan™ Core Balanced Model,CBM,1.59,3.71,6.86,9.03,12.75,6.14,5.66,6.96
+Trajan™ Core Balanced Benchmark,CBB,1.64,3.77,6.86,9.99,12.88,6.30,6.96,7.58
+Trajan™ Core Moderate Model,CMM,1.23,2.79,5.05,7.35,9.69,3.06,4.57,5.58
+Trajan™ Core Moderate Benchmark,CMB,1.15,2.17,4.54,7.32,8.51,2.75,4.78,5.32
+Trajan™ Core Conservative Model,CCM,1.06,2.35,4.37,6.76,8.44,1.49,4.01,4.90
+Trajan™ Core Conservative Benchmark,CCB,0.91,1.58,3.49,6.17,6.65,1.26,4.05,4.55
+Trajan™ Balanced Income Model,BIM,0.67,3.03,2.38,2.07,3.35,4.90,3.54,5.37
+Trajan™ Balanced Income Benchmark,BIB,0.77,2.73,2.88,3.51,6.05,3.75,4.12,5.06
+Trajan™ Low Volatility Model,LVM,0.48,2.20,1.84,2.24,3.08,2.44,2.93,4.51
+Trajan™ Low Volatility Benchmark,LVB,0.44,2.29,1.98,3.34,4.25,1.74,3.12,4.07
+Trajan™ Opportunistic Fixed Income Model,OPF,0.23,0.39,0.62,2.86,2.07,-3.12,1.17,2.37
+Trajan™ Opportunistic Fixed Income Benchmark,OFIB,0.19,-0.58,0.16,2.38,0.45,-3.81,0.82,1.34
+Trajan™ Short Duration Fixed Income Model,SDFI,0.08,-0.54,0.71,2.48,2.01,-2.16,1.31,1.37
+Trajan™ Short Duration Benchmark,SDB,-0.04,-1.10,0.24,1.74,0.83,-2.50,1.15,1.13
+Trajan™ Capital Preservation Strategy,CPS,0.31,0.33,1.47,1.92,-0.34,0.91,2.35,2.06
+Trajan™ Capital Preservation Benchmark,CPB,0.05,-0.59,0.48,2.02,1.53,-1.84,1.20,1.19
+Trajan™ Managed Futures Model,MFM,0.90,1.73,3.63,-1.14,-8.05,10.05,4.43,2.38
+Trajan™ Managed Futures Benchmark,MFB,0.10,0.43,1.24,2.18,3.87,1.41,1.62,1.10
+Trajan™ Apex 15 Strategy,A15Str,1.74,4.42,14.23,24.27,27.16,13.83,17.43,21.78
+Trajan™ Apex 18 Strategy,A18Str,1.65,4.59,14.15,21.99,27.49,13.83,17.96,24.08
+Trajan™ Apex 15 40/60 Strategy,A15Str- 40/460,0.81,1.41,5.64,10.81,10.97,5.11,9.13,9.85
+Trajan™ Apex 15 40/60 Benchmark,A15Bnch- 40/60,1.16,2.58,4.74,7.69,9.15,3.33,5.61,6.10
+Trajan™ Apex 15 60/40 Strategy,A15Str- 60/40 ,1.12,2.41,8.46,15.17,16.35,9.64,13.20,14.13
+Trajan™ Apex 15 60/40 Benchmark,A15Bnch- 60/40 ,1.64,4.19,7.06,10.36,13.52,6.87,7.76,8.35
+Trajan™ Dividend Growth Strategy,DivGro Str,2.01,3.89,3.29,-2.14,9.66,12.11,10.48,11.98
+Trajan™ Dividend Growth 40/60 Strategy,DivGro 40/60 Str,0.85,1.16,2.04,0.97,5.87,4.90,5.70,5.77
+Trajan™ Dividend Growth 40/60 Benchmark,DivGro 40/60 Bnch,0.77,1.48,2.81,2.88,6.02,3.64,4.20,4.56
+Trajan™ Dividend Growth 60/40 Strategy,DivGro 60/40 Str,1.22,2.00,2.68,0.33,7.97,8.38,7.85,7.99
+Trajan™ Dividend Growth 60/40 Benchmark,DivGro 60/40 Bnch,1.17,2.79,4.08,3.38,8.51,6.66,5.46,6.11
+Trajan™ Broad US Equity Model,DivGro 40/60 Str,2.37,7.47,10.37,13.78,20.34,12.00,10.08,12.74
+Trajan™ Small Mid Cap Strategy,SmidCap Str,2.02,7.77,7.12,10.16,19.47,21.47,14.37,17.42
+Trajan™ Expanding Moat  Strategy,Exp Moat,2.04,7.08,15.04,27.04,25.75,14.13,15.35,20.03
+Trajan™ Defensive Moat  Strategy,D Moat ,2.38,7.47,13.67,17.85,23.58,18.28,14.95,16.35
+Trajan™ Defensive Moat 60/40 Strategy,D Moat 60/40,1.51,4.36,8.52,11.81,14.62,10.26,10.07,10.84
+Trajan™ Expanding Moat 60/40 Strategy,Exp Moat 60/40 ,1.30,4.11,9.31,17.12,16.24,8.01,10.37,12.99
+Trajan™ MOAT 60/40 Benchmark,Moat 60/40 Bnch,1.64,4.19,7.06,10.36,13.52,6.87,7.76,8.35
+Trajan™ Defensive Moat  80/20 Strategy,D Moat 80/20,1.95,5.93,11.12,14.90,19.11,14.18,12.60,13.60
+Trajan™ Expanding Moat  80/20 Strategy,E Moat 80/20,1.68,5.62,12.24,22.19,22.28,11.48,13.25,16.65
+Trajan™ MOAT 80/20 Benchmark,Moat 80/20 Bnch,2.13,5.82,9.41,13.04,17.89,10.39,9.73,10.49
+Trajan™ Defensive Moat 40/60 Strategy,D Moat 40/60 Str,1.02,2.82,5.93,9.51,11.10,6.65,7.87,8.22
+Trajan™ Defensive Moat 40/60 Benchmark,D Moat 40/60 Bnch,1.16,2.58,4.74,7.69,9.15,3.33,5.61,6.10
+SPDR S&P 500 ETF,ETF500,2.61,7.46,11.77,15.72,22.24,13.87,11.52,12.51
+iShares:Russ 1000 Vl ETF,ETFETF,1.98,5.43,6.57,4.22,13.21,12.59,7.41,8.84
+iShares:Russ 2500 ETF,ETF500,1.52,7.71,7.16,7.67,15.64,11.45,5.85,--
+iShares:Core MSCI TIS,TISSCI,2.52,3.14,9.50,11.49,15.30,7.98,3.45,4.94
+iShares:Core MSCI EmMkts,Mkts,2.54,5.71,9.61,9.31,6.59,4.87,1.22,3.32
+iShares:Core MSCI EAFE,EAFECI ,2.61,2.30,9.80,12.90,20.28,8.93,4.09,5.56
+Invesco QQQ Trust 1,TTru,3.83,12.41,20.05,38.29,36.48,15.56,16.57,18.74
+iShares:Russ 2000 ETF,ETF000,0.59,8.21,6.30,7.26,15.43,10.18,3.47,8.12
+Dow Jones Industrial Average - Total Return,J/Total,1.31,4.28,6.94,4.60,17.11,11.52,8.79,11.10
