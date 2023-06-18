@@ -135,5 +135,5 @@ else:
     col3.write('*1 Week period*')
     plt.figure(figsize=(5,25))
     plt.subplots_adjust(top = 1, bottom = 0)
-    df_change['1 Week'].plot(kind='barh', color=df_change['positive_percent_1 Week'].map({True: 'g', False: 'r'}))
+    df_change['1 Week'].plot(kind='barh', color=df_change['positive_percent_change_1 Week'].map({True: 'g', False: 'r'}))
     col3.pyplot(plt)
