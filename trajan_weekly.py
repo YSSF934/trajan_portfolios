@@ -31,7 +31,7 @@ st.markdown("""
 expander_bar = st.expander("About")
 expander_bar.markdown("""
 * **Instructions:** Use the sidebar input options to adjust the number of funds and time frame to analyze
-*   Click on the 'X' in the top right corner to hide  the sidebar to increase the size of the table and chart
+*   Click on the 'X' in the top right corner to hide the sidebar and increase the size of the table and chart
 * **Data source:** [Factset ](https://www.factset.com/)
 * **Email yaron.shamash@trajanwealth.com** with comments or suggestions
 """)
